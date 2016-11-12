@@ -4,7 +4,8 @@ email: mail@lohbihler.com
 description: > # this means to ignore newlines until "baseurl:"
   Is a Creative Technologist living and working in Berlin. Currently running solution.io. Creator of dadamachines. Previously co-founder of a SaaS company named LUXOWORKS. He is a carpenter in the seventh generation with a BA in product design and an MA in interaction design. He creates digital and analogue products and experiences.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://lohbihler.com" # the base hostname & protocol for your site
+url: https://lohbihler.com   # with the https protocol
+enforce_ssl: lohbihler.com   # without any protocol
 twitter:
   username: nevvkid
 
