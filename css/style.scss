@@ -1,8 +1,8 @@
 @charset "utf-8";
 // Import partials from `sass_dir` (defaults to `_sass`)
-@import "../_sass/webfont";
-@import "../_sass/mailchimp";
-@import "../_sass/helpers";
+@import "webfont";
+@import "mailchimp";
+@import "helpers";
 
 // Typography
 $base-font-family: "Lelo-Regular","Helvetica Neue","Helvetica","Roboto","Arial",sans-serif;
