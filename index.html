@@ -3,11 +3,23 @@ layout: page
 title: Johannes Elias Lohbihler – Creative Technologist
 permalink: /
 ---
-
-<p class="large">Is a <strong>Creative Technologist</strong> living and working in Berlin. Creator of <a href="http://dadamachines.com" target="_blank">dadamachines</a>.
-Previously co-founder of a SaaS company named <a href="http://www.luxoworks.com" target="_blank">LUXOWORKS</a>.
-He is a seventh generation carpenter with a BA in product design and an MA in interaction design. <br>He creates digital and analogue products and experiences. </p>
-
-
-
-
+<div class="intro pb4">
+  <p class="large"><strong>Johannes Elias Lohbihler</strong> is a <strong>Creative Technologist</strong></br> living and
+    working in Berlin.</br>Passionately running <a href="http://dadamachines.com" target="_blank">dadamachines</a> – a
+    studio for multisensory experiences & open source music technology.</br>Happily working on digital and analog
+    experiences, products or services for large & small clients, together with a great <a href="http://solution.io"
+      target="_blank">network</a> of partners.</p>
+</div>
+{% assign projects = site.projects | sort: 'order' %}
+{% for project in projects %}
+<div class="project-container">
+  <a href="{{ project.url }}" class="no_border">
+  <img src="projects/{{ project.picture }}" class="image" alt="{{ project.title }} – {{ project.headline }}" style="width: 100%;"/>
+    <div class="overlay-outer">
+      <div class="overlay-inner">
+        <div class="project-title"><h2 class="h1">{{ project.title }}</h2></div>
+      </div>
+    </div>
+  </a>
+</div>
+{% endfor %}
