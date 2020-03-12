@@ -3,17 +3,17 @@ layout: project
 title: dadamachines – composer pro
 class: ganztoll
 headline: music machines for everyone!
-picture: img/composer_3d_myst.jpeg
+picture: ../uploads/composer_3d_myst.jpeg
 order: 1
 ---
 
 Composer is a Performance Sequencer that can be the ControlCenter of a Live Music Setup or can be included as a Performance Controller Instrument in existing Electronic Music Setups or Simple (MIDI-)Looper in a Studio Jam Session
 Composer can store several Songs which consist of up to 16 Machine Slots. There are 12 Pattern Slots per Machine which can be used to Structure a Song.
 
-![tollesbild](img/composer_3d_myst.jpeg){:class="img-responsive"}
-![tollesbild](img/composer_3d_top.jpeg){:class="img-responsive"}
-![tollesbild](img/composer_3d_detail.jpeg){:class="img-responsive"}
-![tollesbild](img/composer back.jpg){:class="img-responsive"}
+![tollesbild](../uploads/composer_3d_myst.jpeg){:class="img-responsive"}
+![tollesbild](../uploads/composer_3d_top.jpeg){:class="img-responsive"}
+![tollesbild](../uploads/composer_3d_detail.jpeg){:class="img-responsive"}
+![tollesbild](../uploads/composer back.jpg){:class="img-responsive"}
 {: class="image-content mt4"}
 
 **Role**  

@@ -3,7 +3,7 @@ layout: project
 title: dadamachines – automat toolkit
 class:  ganztoll
 headline: music machines for everyone!
-picture: img/dadamachines-automat-toolkit.jpg
+picture: ../uploads/dadamachines-automat-toolkit.jpg
 order: 6
 ---
 
@@ -34,7 +34,7 @@ The **automat toolkit** is a plug & play MIDI-controller and accessories kit tha
 
 
 
-![tollesbild](img/dadamachines-automat-toolkit.jpg){:class="img-responsive"}
+![tollesbild](../uploads/dadamachines-automat-toolkit.jpg){:class="img-responsive"}
 {:class="image-content"}
 
 The center of each toolkit is the automat controller. Plug in your favorite software or hardware MIDI input directly into the controller. For output, automat controller has 12 universal DC outputs to connect motors, solenoids, LEDs - whatever you want to start playing. No coding or soldering required!
@@ -61,7 +61,7 @@ Buy now: [dadamachines.com - Shop](https://dadamachines.com/product-category/dad
 GitHub: [GitHub.com – dadamachines/automat](https://github.com/dadamachines/automat)  
 
 **Press**  
-[ASK AUDIO](https://ask.audio/articles/review-dadamachines-automat-robotic-music-machines-toolkit)   
+[ASK AUDIO](../uploads/)   
 [Create Digital Music](https://cdm.link/2017/03/dadamachines-is-an-open-toolkit-for-making-robotic-musical-instruments/)  
 [FACT Magazine](https://www.factmag.com/2017/03/29/dadamachines-automat-toolkit-kickstarter/)  
 [THE VERGE](https://www.theverge.com/circuitbreaker/2017/3/30/15120290/midi-controlled-drum-beaters-dadamachines)  

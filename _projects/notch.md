@@ -3,7 +3,7 @@ layout: project
 title: NOTCH
 class:  ganztoll
 headline: notch notch notch
-picture: img/notch-001.jpg
+picture: ../uploads/notch-001.jpg
 order: 4
 ---
 
@@ -27,16 +27,16 @@ NOTCH has been designed, prototyped and built during a two month residency in Sh
 
 <div class="embed-container mt4"><iframe src="https://player.vimeo.com/video/282315732?color=ffffff&amp;title=0&amp;byline=0&amp;portrait=0&amp;background=1&amp;autoplay=1" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe></div>
 
-![tollesbild](img/notch-003.jpg)
-![tollesbild](img/notch-002.jpg)
-![tollesbild](img/notch-005.jpg)
-![tollesbild](img/notch-006.jpg)
-![tollesbild](img/notch-009.jpg)
-![tollesbild](img/notch-010.jpg)
-![tollesbild](img/notch-011.jpg)
-![tollesbild](img/notch-004.jpg)
-![tollesbild](img/notch-007.jpg)
-![tollesbild](img/notch-008.jpg)
+![tollesbild](../uploads/notch-003.jpg)
+![tollesbild](../uploads/notch-002.jpg)
+![tollesbild](../uploads/notch-005.jpg)
+![tollesbild](../uploads/notch-006.jpg)
+![tollesbild](../uploads/notch-009.jpg)
+![tollesbild](../uploads/notch-010.jpg)
+![tollesbild](../uploads/notch-011.jpg)
+![tollesbild](../uploads/notch-004.jpg)
+![tollesbild](../uploads/notch-007.jpg)
+![tollesbild](../uploads/notch-008.jpg)
 {: class="image-content"}
 
 **Role**  

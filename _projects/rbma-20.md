@@ -3,7 +3,7 @@ layout: project
 title: RED BULL – RBMA-20
 class:  ganztoll
 headline: WORLD´S LARGEST SEQUENCER
-picture: img/rbma-sequencer.jpg
+picture: ../uploads/rbma-sequencer.jpg
 order: 2
 ---
 
@@ -12,10 +12,10 @@ With a length of 10 meters and a height of 2.2 meters, the RBMA-20 is the larges
 
 <div class="embed-container mt4"><iframe src='https://www.youtube.com/embed/siNLuXdJXYw' frameborder='0' allowfullscreen></iframe></div>
 
-![tollesbild](img/rbma-sequencer.jpg){:class="img-responsive"}
-![tollesbild](img/rbma-sequencer-002.jpg){:class="img-responsive"}
-![tollesbild](img/rbma-sequencer-003.jpg){:class="img-responsive"}
-![tollesbild](img/rbma-sequencer-004.jpg){:class="img-responsive"}
+![tollesbild](../uploads/rbma-sequencer.jpg){:class="img-responsive"}
+![tollesbild](../uploads/rbma-sequencer-002.jpg){:class="img-responsive"}
+![tollesbild](../uploads/rbma-sequencer-003.jpg){:class="img-responsive"}
+![tollesbild](../uploads/rbma-sequencer-004.jpg){:class="img-responsive"}
 {: class="image-content"}
 
 **Role**  

@@ -3,7 +3,7 @@ layout: project
 title: Audi Music Box
 class:  ganztoll
 headline: music box for audi
-picture: img/dadamachines-audi-music-box.jpg
+picture: ../uploads/dadamachines-audi-music-box.jpg
 order: 7
 ---
 
@@ -14,9 +14,9 @@ We’re rethinking both of these questions for Audi. Together with dadamachines,
 
 <div class='embed-container mt4'><iframe src='https://www.youtube.com/embed/bstnULC-JVg' frameborder='0' allowfullscreen></iframe></div>
 
-![tollesbild](img/dadamachines-audi-music-box-002.jpg)
-![tollesbild](img/dadamachines-audi-music-box-003.jpg)
-![tollesbild](img/dadamachines-audi-music-box.jpg)
+![tollesbild](../uploads/dadamachines-audi-music-box-002.jpg)
+![tollesbild](../uploads/dadamachines-audi-music-box-003.jpg)
+![tollesbild](../uploads/dadamachines-audi-music-box.jpg)
 {:class="image-content"}
 
 **Role**  

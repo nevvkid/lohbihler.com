@@ -3,7 +3,7 @@ layout: project
 title: dadamachines – Goethe Institute China
 class:  ganztoll
 headline: dadamachines workshop at goethe institute china
-picture: img/goethe-beijing.jpg
+picture: ../uploads/goethe-beijing.jpg
 order: 5
 ---
 
@@ -14,7 +14,7 @@ their toolkit and radically new approach to the interested public.
 
 <div class='embed-container'><iframe src='https://www.youtube.com/embed/MczGVLDbZF8' frameborder='0' allowfullscreen></iframe></div>
 
-![tollesbild](img/goethe-beijing.jpg){:class="img-responsive"}
+![tollesbild](../uploads/goethe-beijing.jpg){:class="img-responsive"}
 
 **Role**  
 Technical consulting & hardware design    
