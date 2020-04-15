@@ -4,7 +4,7 @@ title: LUXOWORKS - strategy & digital
 class: ganztoll
 headline: strategy & digital
 picture: "../uploads/luxoworks-platform.png"
-order: "9"
+order: 9
 
 ---
 Die im Rahmen der Mailänder Möbelmesse stattfindende Euroluce ist alle zwei Jahre Treffpunkt der Lichtbranche weltweit. Konzept und Gestaltung des Luxoworks Messeauftritts übernahm wie schon 2010 zur Messe Light and Building in Frankfurt Designer Hans Schlegel.
