@@ -14,9 +14,6 @@ collections:
   projects:
     output: true
 
-# Google analytics
-google_analytics: UA-87258531-1
-
 # Google site verification
 google_verification: TOgqR35-bIMiNWBG5AsFpQCQIsMxPEG9SqjQ3TdE6SI
 
