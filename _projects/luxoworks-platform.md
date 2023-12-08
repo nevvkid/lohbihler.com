@@ -13,5 +13,3 @@ Die im Rahmen der Mailänder Möbelmesse stattfindende Euroluce ist alle zwei Ja
 <div class="embed-container"><iframe src="https://player.vimeo.com/video/18850712?color=ffffff&title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe></div>
 
 ![tollesbild](../uploads/luxoworks-platform.png){:class="img-responsive"}
-
-ganz toll oder?
